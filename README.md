@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">A passionate Full Stack developer from India  🇮🇳<br><br>- 🔭 I’m working as Associate Developer.</p>
+<p align="left">A passionate Full Stack developer from India  🇮🇳<br><br>- 🔭 I’m working as Software Developer.</p>
 
 ###
 
